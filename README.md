@@ -23,4 +23,4 @@ Download the files and open `index.html` in a browser.
 - `Mohamed-Suhail-Resume.pdf`: the resume download
 
 ## Contact
-mohammedsuhail551@gmail.com · linkedin.com/in/mohamedsuhail-s
+mohammedsuhail551@gmail.com · https://www.linkedin.com/in/mohamed-suhail-s/
